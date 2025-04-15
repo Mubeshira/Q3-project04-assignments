@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1KD1bIBcrDv6ZUgGSS-OnvAW0zn5BRBjR#scroll
 
 Assignments 01 Basics
 https://colab.research.google.com/drive/1P5gvWkvGfa_2iVzcpwy7OP0pmH99-0tS#scrollTo=cSPUS3Zk5GH1
+
+
+Assignments 1 to  6 Compulsory
