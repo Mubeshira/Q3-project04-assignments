@@ -9,3 +9,4 @@ https://colab.research.google.com/drive/1P5gvWkvGfa_2iVzcpwy7OP0pmH99-0tS#scroll
 
 
 Assignments 1 to  6 Compulsory
+https://colab.research.google.com/drive/1aJvB0vOT4gVN9nA4KZIx_cHs4Z0rnYxX#scrollTo=xQ2qG5EnD35b
